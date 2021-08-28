@@ -1,0 +1,13 @@
+A Social sport and fitness Fan Community Site with Sign Up, LogIn and LogOut options
+
+technologies used :- python , django , html , css , javascript.
+
+Important Features:-
+
+1.Users can create groups on various topics.
+
+2.They can create posts in other groups.
+
+3.They can join or leave any group.
+
+4.They can post something or delete it within a group.
